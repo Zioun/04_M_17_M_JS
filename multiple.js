@@ -1,8 +1,8 @@
 var salary = 1000;
 if(salary > 100){
-    console.log('okay');
+    console.log('okay :)');
 }else{
-    console.log('not okay');
+    console.log('not okay :(');
 }
 
 
@@ -12,7 +12,7 @@ const car = 1;
 const house = 3;
 
 if((salary > 500 && height > 9) || (car >= 2 && house)){
-    console.log("okay");
+    console.log("okay :)");
 }else{
-    console.log('not okay');
+    console.log('not okay :(');
 }
